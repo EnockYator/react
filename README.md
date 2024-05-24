@@ -1,1 +1,1 @@
-React Basic Concepts fo Beginners
+React Basic  Concepts for Beginners
